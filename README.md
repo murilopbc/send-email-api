@@ -10,7 +10,6 @@ The API was developed based on [Youtube Tutorial](https://www.youtube.com/watch?
 ## Table of Contents
 
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [API Testing](#api-testing)
