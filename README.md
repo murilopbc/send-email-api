@@ -5,7 +5,7 @@
 
 This project is an Email API built using **Java, Java Spring, Java Email Sender.**
 
-The API was developed based on [Youtube Tutorial](https://www.youtube.com/watch?v=Tc6sBZpJazo&t=1817s), to demonstrate how to send an Email using Mail Trap to Test.
+The API was developed based on [Youtube Tutorial](https://www.youtube.com/watch?v=Tc6sBZpJazo&t=1817s), to demonstrate how to send an Email using Mailtrap to Test.
 
 ## Table of Contents
 
