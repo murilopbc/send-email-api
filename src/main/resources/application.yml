@@ -1,0 +1,16 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: email
+  mail:
+    host: sandbox.smtp.mailtrap.io
+    port: 587
+    username: 46a7c2794695e5
+    password: 5ab5c17ee454f3
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
